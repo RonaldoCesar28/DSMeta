@@ -18,7 +18,8 @@ Layout mobile
 </h2>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/101528945/182218482-f255c4af-2cda-4133-a7d6-2d83c163cf66.jpg" width="300" />
+<img src="https://user-images.githubusercontent.com/101528945/182218482-f255c4af-2cda-4133-a7d6-2d83c163cf66.jpg" width="350" />
+<img src="https://user-images.githubusercontent.com/101528945/182252878-ea43dd51-ac6a-46d0-9fb5-a4d48e5e323f.jpg" width="350" height="645" /> 
 </div>
 
 <h2 align="center">
@@ -30,7 +31,11 @@ Layout web
 </div>
 
 <h2 align="center">
-Video da Aplicação DSMeta
+Video da Aplicação
 </h2>
 
 https://user-images.githubusercontent.com/101528945/182249644-e710c27a-873e-4fe8-b038-60a3995903b1.mp4
+
+<h2 align="center">
+Ferramentas Utilizadas
+</h2>
