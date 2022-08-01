@@ -26,9 +26,13 @@ Layout web
 </h2>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/101528945/182221412-006d6e01-6d1a-4dd9-a31a-f43a05b89e90.png" width="600" /> <img src="https://user-images.githubusercontent.com/101528945/182222710-ad30c371-bc2d-4487-b3f1-6764e8a70395.png" width="600" />
+<img src="https://user-images.githubusercontent.com/101528945/182221412-006d6e01-6d1a-4dd9-a31a-f43a05b89e90.png" width="600" /> <img src="https://user-images.githubusercontent.com/101528945/182232289-f3142669-1571-4a2d-a06a-ff2a0d1e6a91.png" width="600" />
 </div>
 
 <h2 align="center">
 Aplicação
 </h2>
+
+<div align="center">
+
+</div>
