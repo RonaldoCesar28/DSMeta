@@ -17,6 +17,14 @@ A aplicação consiste em uma pesquisa de vendas, onde o usuário pode definir e
 Layout mobile
 </h2>
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/101528945/182218482-f255c4af-2cda-4133-a7d6-2d83c163cf66.jpg" width="300" />
+</div>
+
+<h2 align="center">
+Layout web
+</h2>
+
 
 
 <h2 align="center">
