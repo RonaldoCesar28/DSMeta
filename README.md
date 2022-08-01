@@ -36,6 +36,20 @@ Video da Aplicação
 
 https://user-images.githubusercontent.com/101528945/182249644-e710c27a-873e-4fe8-b038-60a3995903b1.mp4
 
-<h2 align="center">
+<h1 align="center">
 Ferramentas Utilizadas
-</h2>
+</h1>
+
+## Back end
+- Java
+- Spring Boot
+- JPA / Hibernate
+- Maven
+## Front end
+- HTML / CSS / TypeScript
+- ReactJS
+- React Native
+## Implantação do sistema
+- Back end: Heroku
+- Front end web: Netlify
+- Banco de dados: H2
