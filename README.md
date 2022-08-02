@@ -53,3 +53,19 @@ Ferramentas Utilizadas
 - Back end: Heroku
 - Front end web: Netlify
 - Banco de dados: H2
+
+# Como executar o projeto
+
+## Back end
+Pré-requisitos: Java 11
+
+```bash
+# clonar repositório
+git clone https://github.com/RonaldoCesar28/DSMeta
+
+# entrar na pasta do projeto back end
+cd backend
+
+# executar o projeto
+./mvnw spring-boot:run
+```
