@@ -96,4 +96,5 @@ Autor
 
 Ronaldo Cesar Alves Nogueira
 
-https://www.linkedin.com/in/ronaldo-c%C3%A9sar-46507941/
+<a href="https://www.linkedin.com/in/ronaldo-césar-46507941/" target="_blank"><img 
+src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
