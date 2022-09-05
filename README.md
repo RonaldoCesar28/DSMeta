@@ -66,7 +66,7 @@ Pré-requisitos: Java 11
 
 ```bash
 # clonar repositório
-git clone https://github.com/RonaldoCesar28/DSMeta
+git clone git@github.com/RonaldoCesar28/DSMeta.git
 
 # entrar na pasta do projeto backend
 cd backend/
@@ -79,7 +79,7 @@ Pré-requisitos: npm / yarn
 
 ```bash
 # clonar repositório
-git clone https://github.com/RonaldoCesar28/DSMeta
+git clone git@github.com/RonaldoCesar28/DSMeta.git
 
 # entrar na pasta do projeto frontend 
 cd frontend/
