@@ -69,7 +69,7 @@ Pré-requisitos: Java 11
 git clone https://github.com/RonaldoCesar28/DSMeta
 
 # entrar na pasta do projeto backend
-cd backend
+cd backend/
 
 # executar o projeto
 ./mvnw spring-boot:run
@@ -82,13 +82,13 @@ Pré-requisitos: npm / yarn
 git clone https://github.com/RonaldoCesar28/DSMeta
 
 # entrar na pasta do projeto frontend 
-cd frontend
+cd frontend/
 
-# instalar dependências
-yarn install
+# instalar dependências do projeto
+yarn 
 
 # executar o projeto
-yarn start
+yarn dev
 ```
 <h1 align="center">
 Autor
