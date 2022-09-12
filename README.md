@@ -20,7 +20,7 @@ Layout mobile
 </h1>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/101528945/182218482-f255c4af-2cda-4133-a7d6-2d83c163cf66.jpg" width="350" />
+<img src="https://user-images.githubusercontent.com/101528945/189762292-41709428-aa93-434f-aa29-769ce7c5fedf.jpg" width="325" />
 <img src="https://user-images.githubusercontent.com/101528945/182252878-ea43dd51-ac6a-46d0-9fb5-a4d48e5e323f.jpg" width="350" height="645" /> 
 </div> <br></br>
 
