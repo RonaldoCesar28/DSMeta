@@ -9,7 +9,8 @@ DSMeta
 Descrição do Projeto
 </h1>
 
-https://ronaldodsmeta.netlify.app/
+<a href="https://ronaldodsmeta.netlify.app/" target="_blank"><img
+src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" target="_blank"></a>
 
 DSMeta é uma aplicação full stack web e mobile.
 A aplicação consiste em um relatório de vendas, onde o usuário pode definir em um filtro de datas qual vendedor ele deseja buscar para coletar informações como visitas e total de vendas durante aquele período, após o preenchimento das datas, pode se escolher um vendedor e enviar uma notificação via SMS com o relatório total de vendas naquela data e em qual mês do ano teve um destaque maior. <br></br>
